@@ -1,0 +1,99 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #1F2937;
+
+}
+#above-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #6943FF;
+    color: white;
+    height: 300px;
+}
+#above-div h1{
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 38px;
+
+}
+#above-div input{
+    font-size: 72px;
+    text-align: center;
+    width: 117px;
+    height: 83px;
+    border-radius: 5px;
+    border: 2px solid #B295FF;
+    opacity: 0px;
+    background: transparent;
+    color: white;
+    font-weight: 600;
+    padding: 11px 20px;
+    
+}
+#above-div button{
+    width: 117px;
+    height: 42px;
+    top: 209px;
+    left: 217px;
+    padding: 9px 27.5px 9px 27.5px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    border: none;
+    background-color: white;
+    margin-top: 24px;
+    letter-spacing: 0.5px;
+}
+#length-div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #273549;
+    text-align: center;
+    color: white;
+    padding: 5px 4px;
+    margin-top: 23px;
+    border-top-left-radius: 5px;
+    width: 700px;
+}
+#length-div h2{
+    color: #CCC1FF;
+    font-weight: 500;
+}
+
+#vol-div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #273549;
+    text-align: center;
+    color: white;
+    padding: 5px 4px;
+    margin-top: 23px;
+    border-top-left-radius: 5px;
+    width: 700px;
+}
+#vol-div h2{
+    color: #CCC1FF;
+    font-weight: 500;
+}
+#mass-div{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #273549;
+    text-align: center;
+    color: white;
+    padding: 5px 4px;
+    margin-top: 23px;
+    border-top-left-radius: 5px;
+    width: 700px;
+    margin-bottom: 30px;
+}
+#mass-div h2{
+    color: #CCC1FF;
+    font-weight: 500;
+}

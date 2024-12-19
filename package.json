@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s0tcgda18r",
+  "description": "https://scrimba.com/s0tcgda18r/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
